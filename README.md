@@ -29,10 +29,6 @@ The dataset (`canada_per_capita_income.csv`) contains:
 
 ---
 
-## 📌 Usage
-Clone the repository:
+<img width="608" height="428" alt="image" src="https://github.com/user-attachments/assets/b6daeea5-d537-4541-b782-7c096d47210d" />
 
-```bash
-git clone https://github.com/YOUR-USERNAME/canada-income-prediction.git
-cd canada-income-prediction
 
